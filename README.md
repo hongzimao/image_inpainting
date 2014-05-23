@@ -2,9 +2,7 @@ HKUST MATH 4336 Spring 2014 Image Processing Project
 Image Inpainting
 ================
 
-The report of this project is included in **Note.pdf** file.
-
-Some sample outputs can be found in **wiki** page.
+The report of this project is included in **Report.pdf** file.
 
 Main approach is adpoted from these papers:
 
